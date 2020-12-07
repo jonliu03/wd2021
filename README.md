@@ -4,7 +4,6 @@
 
 This repository contains the documentation for the FBLA Website entry located at https://jonliu03.wixsite.com/wd2021.
 
-
 All photographer information, booking options, account information, and picture albums are purely fictional. No account information/personal data is used. 
 
 # Source Code
@@ -21,13 +20,9 @@ Privacy Policy Generator: https://www.gdprprivacypolicy.net/ 
 
 Terms and Conditions Generator: https://www.termsandconditionsgenerator.com
 
-​
-
 # Images: 
 
 All images used were either self created, provided by the website builder, or royalty-free. The links for the royalty-free images are listed below and the files contained in the img folder.
-
-​
 
 Photographer picture on Home page: https://mk0dinosoftlabs959mu.kinstacdn.com/wp-content/uploads/2019/12/How-to-Make-Money-as-a-Photographer-Now-696x464.jpg 
 
