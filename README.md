@@ -8,7 +8,7 @@ All photographer information, booking options, account information, and picture 
 
 # Source Code
 
-The source code is located in the src folder. The complete HTML source is in site.html. Website layout was organized using the Wix website builder with auto-generated code. Javascript files for the booking mechanism are contained in book-options.html and my-bookings.html. Database implementation for user bookings was written in SQL and imported to the Wix website builder.
+The source code is located in the src folder. The complete HTML source is in site.html. Website layout was organized using the Wix website builder with auto-generated code. Javascript files for the booking mechanism are contained in book-options.js and my-bookings.js. Database implementation for user bookings was written in SQL and imported to the Wix website builder.
 
 # Site Information: 
 
