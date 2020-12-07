@@ -1,9 +1,5 @@
 # wd2021
 
-# Source Code
-
-The source code is located in the src folder. The complete HTML source is in site.html. Website layout was organized using the Wix website builder with auto-generated code. Javascript files for the booking mechanism are contained in book-options.html and my-bookings.html. Database implementation for user bookings was written in SQL and imported to the Wix website builder.
-
 # Documentation
 
 This repository contains the documentation for the FBLA Website entry located at https://jonliu03.wixsite.com/wd2021.
@@ -11,6 +7,9 @@ This repository contains the documentation for the FBLA Website entry located at
 
 All photographer information, booking options, account information, and picture albums are purely fictional. No account information/personal data is used. 
 
+# Source Code
+
+The source code is located in the src folder. The complete HTML source is in site.html. Website layout was organized using the Wix website builder with auto-generated code. Javascript files for the booking mechanism are contained in book-options.html and my-bookings.html. Database implementation for user bookings was written in SQL and imported to the Wix website builder.
 
 # Site Information: 
 
